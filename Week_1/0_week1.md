@@ -11,7 +11,7 @@ In Week 1, we’ll introduce you to the MLSA Program, its benefits and responsib
 You’ve been assigned a Mentor who'll be your guide and go-to for support throughout the program, reach out to them if you need help or ask your questions in the general Workspace. 
 
 # But first...
-Let's from one of our Program Managers at Microsoft. 
+A welcome note from one of our Program Managers at Microsoft.
 
 [![Watch the Video](https://i.ytimg.com/vi/ilQe7AtUx7E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGIgZSgyMA8=&rs=AOn4CLCDaTBDFyNzqH-xr7anKFfqQboWjg")](https://www.youtube.com/watch?v=ilQe7AtUx7E)
 
