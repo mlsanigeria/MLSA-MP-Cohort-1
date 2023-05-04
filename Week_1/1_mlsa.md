@@ -85,4 +85,4 @@ New students are accepted into the program quarterly and the results are also an
   In Nigeria we are a family of over 150 Student Ambassadors, making us the largest in Africa and second-largest in the world after India.
   In the next page, you'll learn about Microsoft Learn Student Ambassadors in Nigeria and highlights of our activities and stories. Check back here tomorrow.
   
-  <!-- ## Continue to [Student Ambassadors in Nigeria :arrow_right:](./1_mlsa.md) -->
+  ## Continue to [Student Ambassadors in Nigeria :arrow_right:](./2_mlsanigeria.md)
