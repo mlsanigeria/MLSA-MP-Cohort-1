@@ -34,4 +34,19 @@
   
   ## Student Ambassadors Stories - Currently Student Ambassadors. 
   
+  In Nigeria, we are:
   
+  - Salim Oyinloa. He's everywhere and doing amazing things that only referencing one of his profiles is not enough, find him [here](https://www.google.com/search?q=Salim+Oyinlola)
+  - Bunmi Akinremi, a Machine Learning Engineer and Gold Microsoft Learn Student Ambassador at Obafemi Awolowo University. Among her many notable activities, is her presenting her papers at the biggest AI conference in Africa, [Deep Learning Indaba at Tunsia last year](https://www.linkedin.com/feed/update/urn:li:activity:6968456252624416769/) and [presenting a project on Plastic Waste Detection and Analysis with Drones in Rwanda](https://www.linkedin.com/feed/update/urn:li:activity:6955467888304492545/). Find her on [Linkedin](https://linkedin.com/in/bunmi-akinremi)
+  - [Hammed Babatunde](https://www.linkedin.com/in/hammed-babatunde-idris/). Hammed is a Gold Student Ambassador at the University of Lagos who among many things is a DevOps professional and Operations Manager at Chimoney
+  - [Flora Oladipupo](https://www.linkedin.com/in/flora-oladipupo/recent-activity/shares). Star girl Flora is a Student Ambassador at Federal University of Technology Akure and a Data Analyst. She's one person who is always out to help others in their Tech journey, from writing articles on [Microsoft's blog](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1440506#profile), and other platforms to creating [video contents on Microsoft ADC YouTube](https://www.youtube.com/shorts/mfdZhEFN9Uw), to hosting events and speaking at events. At the just concluded Global Power Platform 2023, she spoke on [Optimizing your career as a Data analyst with Power platform technology.
+](https://www.linkedin.com/posts/flora-oladipupo_powerplatform-activity-7059544686599770113-htDh)
+  - [Sarah Solarin](https://www.linkedin.com/in/sarahsolarin/). Sarah is a pioneer Student Ambassador at Babcock Univerity and a Software Engineer at Moni. She pretty much summed up everything about her [here](https://medium.com/@solarinsarah3/year-in-review-sarah-eec26a8daee8)
+  - [Osinachi Chukwuajama](https://www.linkedin.com/in/chukwujama-osinachi/?originalSubdomain=ng). Osinachi is a Software Engineer at Patricia and Gold Student Ambassador at the Federal University of Technology Owerri. 
+  - [Stephen Praise](https://www.linkedin.com/in/agboola-stephen-praise/). Stephen is awesome Motion Desiginer, essentially a magic designer that has been a backbone of our designs at MLSA Nigeria. He's currently a Gold Student Ambassador at the University of Illorin and Motion Design Intern at Brangic Studio. 
+
+Student Ambassadors in Nigeria are amazing people and we cannot mention them all here. We hope you get to meet them when you become a Student Ambassador and become an exceptional Student Ambassador yourself. 
+
+  ## Continue to [Student Ambassadors in Nigeria :arrow_right:](./3_mlsa_milestones.md)
+  
+  You've been hearing Beta, Gold, what are they and what do they mean?
