@@ -47,6 +47,6 @@
 
 Student Ambassadors in Nigeria are amazing people and we cannot mention them all here. We hope you get to meet them when you become a Student Ambassador and become an exceptional Student Ambassador yourself. 
 
-  ## Continue to [Student Ambassadors in Nigeria :arrow_right:](./3_mlsa_milestones.md)
+  ## Continue to [Program Milestones :arrow_right:](./3_mlsa_milestones.md)
   
   You've been hearing Beta, Gold, what are they and what do they mean?
