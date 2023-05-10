@@ -28,6 +28,6 @@
 
   Being recognized as a Gold MLSA signifies a high level of achievement and a strong commitment to continuous learning, community impact, and professional growth within the Microsoft Learn Student Ambassadors Program.
 
-  ## Continue to [Are you fit to represent Microsoft? :arrow_right:](./4_fit_to_represent_microsoft?.md)
+  ## Continue to [Are you fit to represent Microsoft? :arrow_right:](./4_fit_to_represent_microsoft.md)
   
   Now that you know about the milestones, Do you think you can represent Microsoft as a Student Ambassador? Let's find out. 

@@ -1,10 +1,10 @@
-# :mag: TITLE HERE
+# :ok_woman: (Technical) Skills and Capabilities
 
-<img src="./../images/image.gif"><br>
+<img src="./../images/MLSA-MP-Skills.gif"><br>
 
-<h3> Intro text here <h3>
+<h3> Hehe, don't fear, it's not necessarily Programming skills. <h3>
 
 # Nothing here yet, content is still being created. 
 
-## Continue to [NEXT HERE :arrow_right:](#mag-title-here)
+## Continue to [NEXT HERE :arrow_right:](#ok_woman-technical-skills-and-capabilities)
   
