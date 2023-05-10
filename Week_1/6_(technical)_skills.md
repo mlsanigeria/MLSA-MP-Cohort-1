@@ -36,9 +36,9 @@ To put it simply, skills are things you learn, abilities are things you're natur
   
     - **Technical proficiency:** You don't have to be a coding expert for this. As a Microsoft Learn Student Ambassador, it's important to have a good understanding of Microsoft technologies and tools. This allows you to promote and support Microsoft products and help others use them. You don't need to know everything or a specific number of things. You can choose what interests you, learn about it, and help others learn too.
 
-    When you become a Student Ambassador, you'll have access to a variety of Microsoft technologies. You can choose the ones that align with your career goals or match your interests. They can be simple tools like [Microsoft Forms](https://forms.office.com/) for creating forms or Microsoft Word for documents or [Microsoft Outlook](https://outlook.live.com/owa/) for emails, or more advanced tools like Azure Machine Learning Studio.
+        When you become a Student Ambassador, you'll have access to a variety of Microsoft technologies. You can choose the ones that align with your career goals or match your interests. They can be simple tools like [Microsoft Forms](https://forms.office.com/) for creating forms or Microsoft Word for documents or [Microsoft Outlook](https://outlook.live.com/owa/) for emails, or more advanced tools like Azure Machine Learning Studio.
 
-    Also, you may already have some technical skills like Product Design, Graphic Design, 3D Animation, Low/No code Development, or Technical Writing. These skills can further enhance your ability to support your community and yourself with the resources provided by Microsoft to improve your skills.
+        Also, you may already have some technical skills like Product Design, Graphic Design, 3D Animation, Low/No code Development, or Technical Writing. These skills can further enhance your ability to support your community and yourself with the resources provided by Microsoft to improve your skills.
   
     - **Public speaking:** Leaders as Microsoft Learn Student Ambassadors often engage in public speaking engagements. Having strong public speaking skills allows them to deliver engaging presentations, represent Microsoft effectively, and inspire and motivate others.
 
