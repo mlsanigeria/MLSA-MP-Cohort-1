@@ -10,5 +10,5 @@ No one knows it all and that is why we need each other. Your Community needs you
 
 [![Watch the Video](https://i.ytimg.com/vi/OYnssGZ8Yeg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGAgZSgvMA8=&rs=AOn4CLAiKJHt5HFWNyettjzxjEqMwGK8UA)](https://www.youtube.com/watch?v=OYnssGZ8Yeg)
 
-  ## Continue to [Are you fit to represent Microsoft? :arrow_right:](./4_fit_to_represent_microsoft?.md)
+  ## Continue to [(Technical) Skills required of you. :arrow_right:](./6_(technical)_skills.md)
   
