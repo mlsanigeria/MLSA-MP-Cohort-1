@@ -72,5 +72,5 @@ You can access it by clicking on any of the images or by using this [link](https
 
 But if you have all these skills and people do not know that you have them, that's a problem. One of the ways you can solve that is through personal branding. 
 
-## Continue to [Personal Branding :arrow_right:](#ok_woman-technical-skills-and-capabilities)
+## Continue to [Personal Branding :arrow_right:](./7_personal_branding.md)
   

@@ -8,5 +8,9 @@
 
 As a wrap up, you are going to be working with your Mentors to plan and organise your event. More details would be shared in the Workspace. 
 
+# Hooorayyy!
+
+Hooray! We are done with Week 1. Take a moment to share what you've learned in the Mentorship Program this week on Social Media using the hashtag #mlsamp  and tags us.  Tag us on Twitter, [@mlsanigeria](https://twitter.com/mlsanigeria) [@microsoftlearn](https://twitter.com/microsoftlearn) and on Linkedin, [@mlsanigeria](https://www.linkedin.com/company/microsoft-learn-student-ambassadors/) [@miccrosoftlearn](https://www.linkedin.com/company/microsoftlearn/). 
+
 ## Continue to [Week 2 :arrow_right:](../Week_2/0_welcome_to_week2.md)
   
