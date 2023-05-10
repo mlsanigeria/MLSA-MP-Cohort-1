@@ -62,7 +62,7 @@ Some of you already posses technical skills, some do not. For this mentorship pr
 
 You have till the end of this month, which is when the Mentorship program ends to complete it, ideally it should take you a week to complete it and at the end of it you obtain a Certificate to brag about.
 
-You can access it by clicking on any of the images or by using this [link](https://aka.ms/NIGMLSAMentorship).
+You can access it by clicking on any of the images or by using this [link](https://aka.ms/NIGMLSAMentorship). Use the Microsoft account you submitted when you joined the Mentorship Program. 
 
 [![Cloud Skills Challenge](../images/MLSA-MP-Cloudskills.png)](https://aka.ms/NIGMLSAMentorship)
 
