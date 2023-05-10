@@ -1,4 +1,4 @@
-# :pushpin: Week 1 | Going further
+# :pushpin: Week 2 | Going further
 
 <img src="./../images/MLSA-MP-Week2.gif" /><br><br>
 
